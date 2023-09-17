@@ -9,7 +9,7 @@ SerialAT	KEYWORD1
 SerialMon	KEYWORD1
 
 #######################################
-# Methods and Functions (KEYWORD2)
+# Methods and Functions2 (KEYWORD2)
 #######################################
 begin	KEYWORD2
 restart	KEYWORD2
